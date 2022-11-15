@@ -1,0 +1,2 @@
+execute if score @s tui.selection matches -1 run execute store result score @s tui.page run data get storage tui:page navigation.previous
+execute if score @s tui.selection matches -2 run execute store result score @s tui.page run data get storage tui:page navigation.next

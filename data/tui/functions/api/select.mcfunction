@@ -1,0 +1,1 @@
+execute if predicate tui:selected unless data storage tui:private {lock:true} run function tui:select/init
