@@ -1,5 +1,5 @@
 data remove storage tui:page template
-data remove storage tui:page nav
+data remove storage tui:page navigation
 data remove storage tui:page border
 data remove storage tui:page title
 data remove storage tui:page bullet
